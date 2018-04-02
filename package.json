@@ -148,6 +148,7 @@
           "rtl",
           "select",
           "selection-control",
+          "shape",
           "slider",
           "snackbar",
           "switch",
